@@ -1,4 +1,4 @@
-### A terminal Quiz game built with Go and the Cobra CLI
+## A terminal Quiz game built with Go and the Cobra CLI
 
 ### Features:
 
