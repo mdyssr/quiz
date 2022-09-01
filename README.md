@@ -1,6 +1,6 @@
 ## A terminal Quiz game built with Go and the Cobra CLI
 
-### Features:
+#### Features:
 
 - specify a CSV file to extract questions from
 - shuffle questions
