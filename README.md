@@ -6,7 +6,7 @@
 - shuffle questions
 - add timer for the quiz
 
- This is based on on John Calhoun's quiz game
+This app is a solution for an exercise by John Calhoun's 
 Check out the exercises [here](https://gophercises.com/)
 
 ![demo](demo.gif)
