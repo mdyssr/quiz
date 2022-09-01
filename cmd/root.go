@@ -18,8 +18,8 @@ import (
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "quiz",
-	Short: "A quiz app in your command-line",
-	Long:  `A quiz app in your command-line`,
+	Short: "A quiz game in your terminal",
+	Long:  `A quiz game in your terminal`,
 	RunE: func(cmd *cobra.Command, args []string) error {
 
 		if limit <= 0 {
